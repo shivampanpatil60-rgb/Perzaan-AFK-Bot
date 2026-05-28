@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "GAME_BOAT.aternos.me",
+    "port": 62312,
     "version": "1.21.1"
   },
   "position": {
